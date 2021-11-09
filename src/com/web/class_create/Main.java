@@ -1,4 +1,4 @@
-package com.web;
+package com.web.class_create;
 
 public class Main {
 
