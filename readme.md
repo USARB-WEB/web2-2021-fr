@@ -30,6 +30,8 @@ E-mail: chilatsergiu@gmail.com
 + REST API https://www.restapitutorial.com/
 
 # Spring tutorials
++ https://github.com/sergiuchilat/web2-is41r-spring
++ https://github.com/sergiuchilat/springboot_sample
 + https://www.youtube.com/watch?v=FyZFK4LBjj0
 + https://www.youtube.com/watch?v=5s50Zj8YIE8
 + https://www.youtube.com/watch?v=S1oOMJorZ2w
