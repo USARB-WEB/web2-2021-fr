@@ -12,6 +12,7 @@ E-mail: chilatsergiu@gmail.com
 + https://www.tutorialspoint.com/java/index.htm
 + Java OOP https://github.com/sergiuchilat/web-2-2021-java
 + Java Hibernate https://github.com/sergiuchilat/hibernate_example
++ REST API https://www.restapitutorial.com/
 
 # Spring tutorials
 + https://www.youtube.com/watch?v=FyZFK4LBjj0
