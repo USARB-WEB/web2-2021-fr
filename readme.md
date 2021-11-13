@@ -1,3 +1,6 @@
+# Important
++ Simbata, 20 noiembrie 2021 - Lucrare de control. OOP Basics.
+
 # Link to conference
 https://meet.google.com/wco-fuvi-xgd
 
