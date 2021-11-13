@@ -1,3 +1,6 @@
+# Link to conference
+https://meet.google.com/wco-fuvi-xgd
+
 # Contact info
 E-mail: chilatsergiu@gmail.com
 
