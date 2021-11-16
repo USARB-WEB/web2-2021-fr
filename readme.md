@@ -40,12 +40,20 @@ E-mail: chilatsergiu@gmail.com
 + https://www.youtube.com/watch?v=ZJUAR8Xe6CY
 + https://www.youtube.com/watch?v=R3YNPm7ZmYY
 
+# Postman collection for Spring application
+https://www.getpostman.com/collections/a5e913ac44c657f94ef1
+
 # Hibernate tutorial
 + https://github.com/sergiuchilat/hibernate_example
 + https://www.youtube.com/watch?v=4Ico2HjRTCE
 + https://spring.io/guides/gs/accessing-data-mysql/
 + https://www.jetbrains.com/help/idea/work-with-gradle-dependency-diagram.html
 
+# Database migration
++ https://www.liquibase.org
++ https://www.youtube.com/watch?v=JTdcd4DYgEI
++ https://b-gyula.github.io/liquibase-doc/documentation/changes/add_column.html
++ https://chartio.com/resources/tutorials/how-to-grant-all-privileges-on-a-database-in-mysql/
 
 # Spring framework
 + https://start.spring.io/
