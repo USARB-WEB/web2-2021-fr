@@ -40,5 +40,12 @@ E-mail: chilatsergiu@gmail.com
 + https://www.youtube.com/watch?v=ZJUAR8Xe6CY
 + https://www.youtube.com/watch?v=R3YNPm7ZmYY
 
+# Hibernate tutorial
++ https://github.com/sergiuchilat/hibernate_example
++ https://www.youtube.com/watch?v=4Ico2HjRTCE
++ https://spring.io/guides/gs/accessing-data-mysql/
++ https://www.jetbrains.com/help/idea/work-with-gradle-dependency-diagram.html
+
+
 # Spring framework
 + https://start.spring.io/
