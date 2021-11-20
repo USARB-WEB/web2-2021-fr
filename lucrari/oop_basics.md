@@ -6,11 +6,13 @@
 5. Adăugați în clasă 3 constructori(vor fi diferențiați după numărul de parametrii sau după tipul lor de date) (1)
   
   Ex: Designer cu salariul 1000, Designer cu salariul 1000 și regim de lucru fulltime, Designer la care nu este specificat salariul sau regimul de lucru.
+
 7. Creați o clasă abstractă, care ar putea fi părintele clasei pe care ați creat-o anterior (2).
   
   Ex: Pentru clasa Designer, clasa părinte va fi Employee
 
 8. Creați o clasă înrudită cu clasa din varianta pe care o aveți, iar codul care le este comun, va fi transferat în clasa părinte abstractă (2)
+  
   Ex: Pentru clasa Designer, clasa înrudită va fi Programmer
 
 10. De realizat un scenariu care va conține cel puțin 10 de operații (5)
