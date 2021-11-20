@@ -30,7 +30,7 @@
 
 12. De creat o interfață care permite acces doar la o metodă a clasei (1)
 13. De creat o instanță a clasei bazate pe această interfață și de apelat metoda din interfață (1)
-14. Executați codul, faceți screenshoot-uri li pe încprcați în repozitoriu, în mapa ”screens” (1)
+14. Executați codul, faceți screenshoot-uri pe care le încărcați în repozitoriu, în mapa ”screens” (1)
 15. Trebuie de facut un commit pentru fiecare însărcinare (1)
 
 
